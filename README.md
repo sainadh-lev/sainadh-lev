@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @sainadh-lev
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning programming and web development 
+- 💞️ I’m looking to collaborate on ant projects
+- 📫 How to reach me sainadh_b190347cs@nitc.ac.in
+
+<!---
+sainadh-lev/sainadh-lev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
