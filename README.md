@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sainadh jammigumpala
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning programming and web development 
-- 💞️ I’m looking to collaborate on any projects regrading programming and web development 
+- 💞️ I’m looking to collaborate on any projects related to programming and web development 
 - 📫 How to reach me sainadh_b190347cs@nitc.ac.in
 
 <!---
